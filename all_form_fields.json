@@ -1,0 +1,2468 @@
+{
+  "Online Services _ Immigration New Zealand_login.html": [
+    {
+      "id": "",
+      "name": "__RequestVerificationToken",
+      "tag": "input",
+      "type": "hidden",
+      "val": "bCbz3a5TfjyVv210RZS3NsiZaEoQWIaF_72hcvVd5luwr2KXcw214T8OmmAuFZgmurJsQjNHgwlzXbrygdIcFVGBVKo1",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "",
+      "name": "username",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "",
+      "name": "password",
+      "tag": "input",
+      "type": "password",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "tag": "input",
+      "type": "submit",
+      "val": "LOGIN",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "",
+      "name": "key",
+      "tag": "input",
+      "type": "hidden",
+      "val": "WHS",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_capcha.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "g-recaptcha-response",
+      "name": "g-recaptcha-response",
+      "tag": "textarea",
+      "type": "textarea",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_submitImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:submitImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "SUBMIT",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "151.11111450195312",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_cfmapply.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_applyNowButton",
+      "name": "_ctl0:ContentPlaceHolder1:applyNowButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "APPLY NOW",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_character.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "PERSONAL",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "HEALTH",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "CHARACTER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_3",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl3:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "WHS SPECIFIC",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_character_imprisonment5YearsDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:imprisonment5YearsDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_imprisonment12MonthsDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:imprisonment12MonthsDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_deportedDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:deportedDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_deportedDateDatePicker_DatePicker",
+      "name": "_ctl0:ContentPlaceHolder1:character:deportedDateDatePicker_DatePicker",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_character_countryDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:countryDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 251,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "4",
+          "label": "Afghanistan"
+        },
+        {
+          "value": "5",
+          "label": "Albania"
+        },
+        {
+          "value": "6",
+          "label": "Algeria"
+        },
+        {
+          "value": "7",
+          "label": "American Samoa"
+        },
+        {
+          "value": "8",
+          "label": "Andorra"
+        },
+        {
+          "value": "9",
+          "label": "Angola"
+        },
+        {
+          "value": "10",
+          "label": "Anguilla"
+        },
+        {
+          "value": "11",
+          "label": "Antarctica"
+        },
+        {
+          "value": "12",
+          "label": "Antigua &amp; Barbuda"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_chargedDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:chargedDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_convictedDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:convictedDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_underInvestigationDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:underInvestigationDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_excludedDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:excludedDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_removedDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:character:removedDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_character_excludeRemovedDetailsTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:character:excludeRemovedDetailsTextBox",
+      "tag": "textarea",
+      "type": "textarea",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_previousImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:previousImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Previous",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_validateButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:validateButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "SAVE",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_completeLaterImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:completeLaterImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "COMPLETE LATER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_nextImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:nextImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Next",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "523.3333740234375",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_choose country apply.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "1606.666748046875",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_confirmsubmit.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_falseStatementCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:falseStatementCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_notesCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:notesCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_circumstancesCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:circumstancesCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_warrantsCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:warrantsCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_informationCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:informationCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_healthCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:healthCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_adviceCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:adviceCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_registrationCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:registrationCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_entitlementCheckbox",
+      "name": "_ctl0:ContentPlaceHolder1:entitlementCheckbox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_permitExpiryCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:permitExpiryCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalInsuranceCheckBox",
+      "name": "_ctl0:ContentPlaceHolder1:medicalInsuranceCheckBox",
+      "tag": "input",
+      "type": "checkbox",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "g-recaptcha-response",
+      "name": "g-recaptcha-response",
+      "tag": "textarea",
+      "type": "textarea",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_submitImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:submitImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "SUBMIT",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_cancelImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:cancelImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "CANCEL",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "342.22222900390625",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_health.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "PERSONAL",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "HEALTH",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "CHARACTER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_3",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl3:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "WHS SPECIFIC",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_renalDialysisDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:renalDialysisDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_tuberculosisDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:tuberculosisDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_cancerDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:cancerDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_heartDiseaseDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:heartDiseaseDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_disabilityDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:disabilityDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_hospitalisationDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:hospitalisationDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_residentailCareDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:residentailCareDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_pregnancy_pregnancyStatusDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:pregnancy:pregnancyStatusDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_healthDetailsTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:healthDetailsTextBox",
+      "tag": "textarea",
+      "type": "textarea",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_medicalConditions_tbRiskDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:medicalConditions:tbRiskDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_previousImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:previousImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Previous",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_validateButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:validateButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "SAVE",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_completeLaterImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:completeLaterImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "COMPLETE LATER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_nextImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:nextImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Next",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "677.7777709960938",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_paynow.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "151.11111450195312",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_personal_personaldetails.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "PERSONAL",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "HEALTH",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "CHARACTER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_3",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl3:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "WHS SPECIFIC",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Personal details",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Identification",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Occupation details",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_familyNameTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:familyNameTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "BAC",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "50",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_givenName1Textbox",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:givenName1Textbox",
+      "tag": "input",
+      "type": "text",
+      "val": "BUI",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "30",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_givenName2Textbox",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:givenName2Textbox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "30",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_givenName3Textbox",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:givenName3Textbox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "30",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_otherNamesTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:otherNamesTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "255",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_titleDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:titleDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 7,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "1",
+          "label": "Mr"
+        },
+        {
+          "value": "2",
+          "label": "Mrs"
+        },
+        {
+          "value": "3",
+          "label": "Ms"
+        },
+        {
+          "value": "4",
+          "label": "Miss"
+        },
+        {
+          "value": "5",
+          "label": "Dr"
+        },
+        {
+          "value": "6",
+          "label": "Other"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_otherTitleTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:otherTitleTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "30",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_genderDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:genderDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "M",
+          "label": "Male"
+        },
+        {
+          "value": "F",
+          "label": "Female"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_dateOfBirthDatePicker_DatePicker",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:dateOfBirthDatePicker_DatePicker",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_personDetails_CountryDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:personDetails:CountryDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 251,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "4",
+          "label": "Afghanistan"
+        },
+        {
+          "value": "5",
+          "label": "Albania"
+        },
+        {
+          "value": "6",
+          "label": "Algeria"
+        },
+        {
+          "value": "7",
+          "label": "American Samoa"
+        },
+        {
+          "value": "8",
+          "label": "Andorra"
+        },
+        {
+          "value": "9",
+          "label": "Angola"
+        },
+        {
+          "value": "10",
+          "label": "Anguilla"
+        },
+        {
+          "value": "11",
+          "label": "Antarctica"
+        },
+        {
+          "value": "12",
+          "label": "Antigua &amp; Barbuda"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_address_streetNumberTextbox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:address:streetNumberTextbox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "8",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_address_address1TextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:address:address1TextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "100",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_address_suburbTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:address:suburbTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "100",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_address_cityTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:address:cityTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "100",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_address_provinceStateTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:address:provinceStateTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "30",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_address_postalCodeTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:address:postalCodeTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "15",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_address_countryDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:address:countryDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 251,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "4",
+          "label": "Afghanistan"
+        },
+        {
+          "value": "5",
+          "label": "Albania"
+        },
+        {
+          "value": "6",
+          "label": "Algeria"
+        },
+        {
+          "value": "7",
+          "label": "American Samoa"
+        },
+        {
+          "value": "8",
+          "label": "Andorra"
+        },
+        {
+          "value": "9",
+          "label": "Angola"
+        },
+        {
+          "value": "10",
+          "label": "Anguilla"
+        },
+        {
+          "value": "11",
+          "label": "Antarctica"
+        },
+        {
+          "value": "12",
+          "label": "Antigua &amp; Barbuda"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_contactDetails_phoneNumberTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:contactDetails:phoneNumberTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "25",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_contactDetails_phoneNumberNightTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:contactDetails:phoneNumberNightTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "25",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_contactDetails_phoneNumberMobileTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:contactDetails:phoneNumberMobileTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "25",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_contactDetails_faxNumberTextbox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:contactDetails:faxNumberTextbox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "25",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_addressContactDetails_contactDetails_emailAddressTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:addressContactDetails:contactDetails:emailAddressTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "tuankunka@gmail.com",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "100",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_hasAgent_representedByAgentDropdownlist",
+      "name": "_ctl0:ContentPlaceHolder1:hasAgent:representedByAgentDropdownlist",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_communicationMethod_communicationMethodDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:communicationMethod:communicationMethodDropDownList",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 2,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "1",
+          "label": "Email"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_hasCreditCard_hasCreditCardDropDownlist",
+      "name": "_ctl0:ContentPlaceHolder1:hasCreditCard:hasCreditCardDropDownlist",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 3,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "No",
+          "label": "No"
+        },
+        {
+          "value": "Yes",
+          "label": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_validateButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:validateButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "SAVE",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_completeLaterImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:completeLaterImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "COMPLETE LATER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_nextImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:nextImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Next",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "393.3333435058594",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_personal_personalidentification.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "PERSONAL",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "HEALTH",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "CHARACTER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_3",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl3:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "WHS SPECIFIC",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Personal details",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Identification",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Occupation details",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_identification_passportNumberTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:identification:passportNumberTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "15",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_identification_confirmPassportNumberTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:identification:confirmPassportNumberTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "15",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_identification_passportExpiryDateDatePicker_DatePicker",
+      "name": "_ctl0:ContentPlaceHolder1:identification:passportExpiryDateDatePicker_DatePicker",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_identification_otherIdentificationDropdownlist",
+      "name": "_ctl0:ContentPlaceHolder1:identification:otherIdentificationDropdownlist",
+      "tag": "select",
+      "type": "select",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 4,
+      "optionsSample": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "1",
+          "label": "Driver License"
+        },
+        {
+          "value": "2",
+          "label": "Birth Certificate"
+        },
+        {
+          "value": "3",
+          "label": "National ID"
+        }
+      ]
+    },
+    {
+      "id": "ContentPlaceHolder1_identification_otherIssueDateDatePicker_DatePicker",
+      "name": "_ctl0:ContentPlaceHolder1:identification:otherIssueDateDatePicker_DatePicker",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_identification_otherExpiryDateDatePicker_DatePicker",
+      "name": "_ctl0:ContentPlaceHolder1:identification:otherExpiryDateDatePicker_DatePicker",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_identification_passportCountryDropDownList",
+      "name": "_ctl0:ContentPlaceHolder1:identification:passportCountryDropDownList",
+      "tag": "input",
+      "type": "hidden",
+      "val": "214",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_previousImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:previousImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Previous",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_validateButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:validateButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "SAVE",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_completeLaterImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:completeLaterImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "COMPLETE LATER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_nextImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:nextImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Next",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "150",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_personal_personaloccupation.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "PERSONAL",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "HEALTH",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "CHARACTER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_3",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl3:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "WHS SPECIFIC",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Personal details",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Identification",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_pageTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:pageTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Occupation details",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_generalPersonal_industryControl_optionListSearch_SearchStringTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:generalPersonal:industryControl:optionListSearch:SearchStringTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_generalPersonal_industryControl_optionListSearch_SearchImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:generalPersonal:industryControl:optionListSearch:SearchImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_generalPersonal_occupationControl_optionListSearch_SearchStringTextBox",
+      "name": "_ctl0:ContentPlaceHolder1:generalPersonal:occupationControl:optionListSearch:SearchStringTextBox",
+      "tag": "input",
+      "type": "text",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_generalPersonal_occupationControl_optionListSearch_SearchImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:generalPersonal:occupationControl:optionListSearch:SearchImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_previousImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:previousImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Previous",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_validateButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:validateButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "SAVE",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_completeLaterImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:completeLaterImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "COMPLETE LATER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_nextImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:nextImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Next",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "476.66668701171875",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ],
+  "Working Holiday _ Immigration New Zealand_whs_specific.html": [
+    {
+      "id": "__SCROLLPOSITIONX",
+      "name": "__SCROLLPOSITIONX",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "__SCROLLPOSITIONY",
+      "name": "__SCROLLPOSITIONY",
+      "tag": "input",
+      "type": "hidden",
+      "val": "0",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_0",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl0:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "PERSONAL",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_1",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl1:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "HEALTH",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_2",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl2:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "CHARACTER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageHeader_nav_sectionTabs_TabHeaders_tabButton_3",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageHeader:nav:sectionTabs:TabHeaders:_ctl3:tabButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "WHS SPECIFIC",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_previousImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:previousImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "Previous",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_validateButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:validateButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "SAVE",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ContentPlaceHolder1_wizardPageFooter_wizardPageNavigator_completeLaterImageButton",
+      "name": "_ctl0:ContentPlaceHolder1:wizardPageFooter:wizardPageNavigator:completeLaterImageButton",
+      "tag": "input",
+      "type": "submit",
+      "val": "COMPLETE LATER",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    },
+    {
+      "id": "ClientScrollHeight",
+      "name": "_ctl0:ClientScrollHeight",
+      "tag": "input",
+      "type": "hidden",
+      "val": "227.7777862548828",
+      "isChecked": false,
+      "disabled": false,
+      "maxlength": "",
+      "optionsCount": 0,
+      "optionsSample": []
+    }
+  ]
+}
